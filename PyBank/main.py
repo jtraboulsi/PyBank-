@@ -2,11 +2,9 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 3,
-   "id": "5dc8547d-1006-4ad4-90b5-8729dd3e43bf",
-   "metadata": {
-    "tags": []
-   },
+   "execution_count": 1,
+   "id": "d562ec6b-ae87-4047-bcbd-496671d2d383",
+   "metadata": {},
    "outputs": [
     {
      "name": "stdout",
@@ -89,17 +87,8 @@
     "    output.write(\"\\n\")\n",
     "    output.write(greatest_increase)\n",
     "    output.write(\"\\n\")\n",
-    "    output.write(greatest_decrease)\n",
-    "    "
+    "    output.write(greatest_decrease)"
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "dca3b09a-9f6f-4635-9991-b5b989f27ebb",
-   "metadata": {},
-   "outputs": [],
-   "source": []
   }
  ],
  "metadata": {
